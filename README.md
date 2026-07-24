@@ -95,13 +95,8 @@ python skin_disease_detection.py
 
 ### Prediction Example 1
 
-(Add Screenshot Here)
+<img src="results/skin_disease_detection.png" width="700">
 
-### Prediction Example 2
-
-(Add Screenshot Here)
-
----
 
 ## 🔮 Future Improvements
 
